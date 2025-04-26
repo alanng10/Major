@@ -47,3 +47,5 @@ Major has park kind arch benefit.
 Major has park kind arch marry.
 
 Major has park kind arch land.
+
+Major has major.
