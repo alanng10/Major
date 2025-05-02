@@ -48,4 +48,8 @@ Major has park kind arch marry.
 
 Major has park kind arch land.
 
+Major has park mark.
+
+Major has park cross.
+
 Major has major.
